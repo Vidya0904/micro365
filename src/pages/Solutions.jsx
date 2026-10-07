@@ -15,7 +15,7 @@ function Solutions() {
             </p>
 
             <div className="row mt-5">
-              <div className="col-12 col-md-4 col-lg-2">
+              <div className="col-6 col-md-4 col-lg-2">
                 <div className="p-2">
                   <div className="sol-card">
                     <img
@@ -30,7 +30,7 @@ function Solutions() {
                   </div>
                 </div>
               </div>
-              <div className="col-12 col-md-4 col-lg-2">
+              <div className="col-6 col-md-4 col-lg-2">
                 <div className="p-2">
                   <div className="sol-card">
                     <img
@@ -46,7 +46,7 @@ function Solutions() {
                   </div>
                 </div>
               </div>
-              <div className="col-12 col-md-4 col-lg-2">
+              <div className="col-6 col-md-4 col-lg-2">
                 <div className="p-2">
                   <div className="sol-card">
                     <img
@@ -61,7 +61,7 @@ function Solutions() {
                   </div>
                 </div>
               </div>
-              <div className="col-12 col-md-4 col-lg-2">
+              <div className="col-6 col-md-4 col-lg-2">
                 <div className="p-2">
                   <div className="sol-card">
                     <img
@@ -76,7 +76,7 @@ function Solutions() {
                   </div>
                 </div>
               </div>
-              <div className="col-12 col-md-4 col-lg-2">
+              <div className="col-6 col-md-4 col-lg-2">
                 <div className="p-2">
                   <div className="sol-card">
                     <img
@@ -93,7 +93,7 @@ function Solutions() {
                   </div>
                 </div>
               </div>
-              <div className="col-12 col-md-4 col-lg-2">
+              <div className="col-6 col-md-4 col-lg-2">
                 <div className="p-2">
                   <div className="sol-card">
                     <img

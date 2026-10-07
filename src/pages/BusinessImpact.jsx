@@ -4,7 +4,7 @@ function BusinessImpact() {
   return (
     <>
       <section id="businessimpact" className="business">
-        <div className="business-content p-5">
+        <div className="business-content">
           <div className="container">
             <h6 className="mb-2 text-center">Impact on Business</h6>
             <h2 className="mb-3 text-center">

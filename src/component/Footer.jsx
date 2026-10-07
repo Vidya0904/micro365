@@ -16,7 +16,7 @@ function Footer() {
             <div className="footer-r">
               <div className="footer-contact">
                 <div>
-                  <h3 className="mb-2">Quick Links</h3>
+                  <h4 className="mb-2">Quick Links</h4>
                   <ul className="quick-links">
                     <li>
                       <a href="#home">Home</a>
@@ -38,7 +38,7 @@ function Footer() {
               </div>
               <div className="footer-contact">
                 <div>
-                  <h3 className="mb-2">Contact Us</h3>
+                  <h4 className="mb-2">Contact Us</h4>
                   <ul>
                     <li>+91 8976564323</li>
                     <li>demo@demo.com</li>

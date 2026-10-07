@@ -8,29 +8,11 @@
   --heading-color: #02172a;
   --white: #ffffff;
 
-  --bg-white: #ffffff;
-  --bg-light: #f5fafd;
   --bg-blue-light: #eaf6ff;
-  --bg-section-blue: #dff2fc;
 
-  --card-bg: #ffffff;
   --card-border: #e2eaf0;
-  --card-shadow: rgba(0, 80, 130, 0.08);
-
-  --btn-primary: #0078d4;
-  --btn-primary-hover: #005a9e;
-  --btn-text: #ffffff;
-
-  --icon-blue: #0078d4;
-  --icon-light-blue: #e6f4ff;
-
-  --input-border: #d6e2ea;
-  --input-bg: #ffffff;
-  --input-focus: #0078d4;
 
   --footer-bg: #082f4f;
-  --footer-text: #ffffff;
-  --footer-muted: #b8d0e2;
 }
 
 .row > * {
@@ -71,6 +53,7 @@ h6 {
   letter-spacing: 0.5px;
   font-weight: 500 !important;
   text-transform: uppercase;
+  font-size: 14px !important;
 }
 
 p {
